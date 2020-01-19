@@ -10,3 +10,7 @@
 - To minimize the communication gap between the event organizers and the students.
 - To make event schedules easily accessible
 - To provide notification about current and upcoming events
+
+## Skeleton:
+
+![](https://raw.githubusercontent.com/Jaineel-Mamtora/CampusLive/master/media/Skeleton.png?token=AJG74QNIVH6MZ3MD3DAXIRC6FUVJW)
